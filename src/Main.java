@@ -77,7 +77,7 @@ public class Main {
         }
     }
     public static void task4() {
-        System.out.println("[[[ Task 4 ]]]");
+        System.out.println("[[ Task 4 ]]");
         int[] arrInt = new int[3];
         arrInt[0] = 1;
         arrInt[1] = 2;
